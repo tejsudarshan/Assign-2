@@ -1,4 +1,4 @@
-# Assign-2
+# Pipeline-2
 Consider a pipeline that carries out the following stage-wise operations:
 
 Inputs: Three register addresses (rs1, rs2 and rd), an ALU function (func), and a memory address (addr).
